@@ -1,3 +1,7 @@
+# Какие проблемы были у Facebook с Оптимизацией Много-Ядерных серверов и для чего они писали Патчи к Memcached
+https://docs.google.com/document/d/104mnPN_zJFZgZFTKbno98eaDb5h2wXLA0-sDjaBXb7g/edit
+
+
 Dependencies:
 
    -- libevent, http://www.monkey.org/~provos/libevent/ (libevent-dev)
